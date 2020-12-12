@@ -32,7 +32,7 @@ app.js         // Runs the application
 
     ![](images/CLI.gif)
 
-9. Go to the `output` folder, find `team.html` and open it in your default web browser. this is your output web page for your team. It should look similar to below.
+9. Go to the `output` folder, find `team.html` and open it in your default web browser. 
 
     ![](images/output.png)
 
