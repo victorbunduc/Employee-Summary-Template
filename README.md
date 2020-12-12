@@ -34,7 +34,8 @@ app.js         // Runs the application
 
 9. Go to the `output` folder, find `team.html` and open it in your default web browser. 
 
-    ![](images/output.png)
+   <img width="1427" alt="10-OOP-homework-demo-1" src="https://user-images.githubusercontent.com/71414528/101994780-ebd13d80-3c79-11eb-81d9-66da00a81516.png">
+
 
 ## Tool & Resources
 ---
