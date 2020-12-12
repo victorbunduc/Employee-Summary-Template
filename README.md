@@ -29,6 +29,8 @@ app.js         // Runs the application
 6. Select the employee's title > `ENTER`
 7. If you selected Engineer, input their GitHub. If you selected Manager, input their office number. If you selected Intern, input their school
 8. Repeat for all employees until you receive the "Success!" notification. 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71414528/101995401-6c923880-3c7e-11eb-8569-fd05d8d3ee94.gif)
+
 9. Go to the `output` folder, find `team.html` and open it in your default web browser. 
 
    <img width="1427" alt="10-OOP-homework-demo-1" src="https://user-images.githubusercontent.com/71414528/101994780-ebd13d80-3c79-11eb-81d9-66da00a81516.png">
