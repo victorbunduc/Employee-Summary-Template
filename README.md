@@ -50,5 +50,3 @@ app.js         // Runs the application
 ---
 run `npm run test` in the root
 
-## Assignment Challenges
----
